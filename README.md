@@ -2,28 +2,30 @@
 <h2 align="left">👋🏼 Hi, nice to meet you! :)</h2>
 <br>
 
-<p>I'm a full stack software engineer who is passionate about learning.</p>
+<p>I'm a full stack software engineer who is passionate about learning. </p>
+
+My tech stack: 
+- languages: JavaScript, Ruby, SQL, HTML, CSS, currently learning Python. 
+- frameworks: Rails, React, Redux, Sinatra, Bootstrap, Material UI
+- industry tools: Command Line, Git, Github, PostgreSQL
 
 <br>
 
 <div>
 
-<a align="left">
-  <img src="https://github-readme-stats.vercel.app/api/?username=user01010011&hide=stars,issues,contribs&count_private=true&theme=default&showicons=true" width="450"/>
-</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-
- <a align="right">
+ <a align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user01010011&layout=compact&langs_count=5&theme=default" width="340"/>
 </a>
+
+<a align="right">
+  <img src="https://github-readme-stats.vercel.app/api/?username=user01010011&hide=stars,issues,contribs&count_private=true&theme=default&showicons=true" width="450"/>
+</a> &nbsp;&nbsp;&nbsp;&nbsp; 
 
 </div>
  <br> 
 
- <p align="center"><img src="https://komarev.com/ghpvc/?username=user01010011" alt="user01010011"/></p>
-
- 
-
-
+<!-- 
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=user01010011" alt="user01010011"/></p> -->
 
 <!---
 user01010011/user01010011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

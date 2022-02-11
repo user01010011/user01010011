@@ -1,18 +1,22 @@
 
 <h2 align="left">👋🏼 Hi, nice to meet you! :)</h2>
 <br>
-I'm a full stack software engineer who is passionate about learning. 
+
+<p>I'm a full stack software engineer who is passionate about learning.</p>
+
+<br>
 <br>
 
 <div>
 
- <a align="left">
+<a align="left">
+  <img src="https://github-readme-stats.vercel.app/api/?username=user01010011&hide=stars,issues,contribs&count_private=true&theme=react&showicons=true" width="450"/>
+</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+
+ <a align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user01010011&layout=compact&langs_count=5&theme=react" width="340"/>
 </a>
 
-<a align="right">
-  <img src="https://github-readme-stats.vercel.app/api/?username=user01010011&hide=stars,issues,contribs&count_private=true&theme=react&showicons=true" width="450"/>
-</a> &nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
  <br> 
 

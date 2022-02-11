@@ -14,7 +14,7 @@ Hi, I'm [Isabella](mailto:isabella.s.yan@gmail.com), a full stack software engin
 </div>
  <br> 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=user01010011" alt="user01010011" /> </p>
- <p align="center"><img align="center" height="200" alt="GIF" src="https://media.giphy.com/media/S6qkS0ETvel6EZat45/giphy.gif" /></p>
+
  <p align="center"> Thank you for visiting my profile. Have a great day! </p>
  
 

@@ -4,18 +4,20 @@
 I'm a full stack software engineer who is passionate about learning. 
 <br>
 
-<div >
-<a align="left">
-  <img src="https://github-readme-stats.vercel.app/api/?username=user01010011&hide=stars,issues,contribs&count_private=true&theme=react&showicons=true" width="450" />
-</a> &nbsp;&nbsp;&nbsp;&nbsp; 
- <a alighn="right">
+<div>
+
+ <a align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user01010011&layout=compact&langs_count=5&theme=react" width="340"/>
 </a>
+
+<a align="right">
+  <img src="https://github-readme-stats.vercel.app/api/?username=user01010011&hide=stars,issues,contribs&count_private=true&theme=react&showicons=true" width="450"/>
+</a> &nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
  <br> 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=user01010011" alt="user01010011" /> </p>
 
- <p align="center"> Thank you for visiting my profile. Have a great day! </p>
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=user01010011" alt="user01010011"/></p>
+
  
 
 

@@ -4,13 +4,12 @@
 
 <p>I'm a full stack software engineer who is passionate about learning. </p>
 
-My tech stack: 
+My current tech stack: 
 - languages: JavaScript, Ruby, SQL, HTML, CSS, currently learning Python. 
 - frameworks: Rails, React, Redux, Sinatra, Bootstrap, Material UI
 - industry tools: Command Line, Git, Github, PostgreSQL
 
 <br>
-
 <div>
 
  <a align="left">

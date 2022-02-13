@@ -2,9 +2,9 @@
 <h2 align="left">👋🏼 Hi, nice to meet you! :)</h2>
 <br>
 
-<p>I'm a full stack software engineer who is passionate about learning. </p>
+<h5>I'm a full stack software engineer who is passionate about technology and learning. 👩🏻‍💻❤️ </h5>
 
-My current tech stack: 
+<h6>My current tech stack: <h6>
 - languages: JavaScript, Ruby, SQL, HTML, CSS, currently learning Python. 
 - frameworks: Rails, React, Redux, Sinatra, Bootstrap, Material UI
 - industry tools: Command Line, Git, Github, PostgreSQL

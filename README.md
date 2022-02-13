@@ -1,13 +1,13 @@
 
 <h2 align="left">👋🏼 Hi, nice to meet you! :)</h2>
 <br>
+<h4>I'm a full stack software engineer who is passionate about technology and learning. 👩🏻‍💻❤️ </h4>
 
-<h5>I'm a full stack software engineer who is passionate about technology and learning. 👩🏻‍💻❤️ </h5>
-
-<h6>My current tech stack: <h6>
-- languages: JavaScript, Ruby, SQL, HTML, CSS, currently learning Python. 
-- frameworks: Rails, React, Redux, Sinatra, Bootstrap, Material UI
-- industry tools: Command Line, Git, Github, PostgreSQL
+<ul><h5>My current tech stack:<h5>
+  <li>- languages: JavaScript, Ruby, SQL, HTML, CSS, currently learning Python.<li> 
+  <li>- frameworks: Rails, React, Redux, Sinatra, Bootstrap, Material UI<li>
+  <li>- industry tools: Command Line, Git, Github, PostgreSQL<li>
+</ul>
 
 <br>
 <div>

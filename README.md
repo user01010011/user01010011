@@ -1,12 +1,12 @@
 
 <h2 align="left">👋🏼 Hi, nice to meet you! :)</h2>
-<br>
-<h4>I'm a full stack software engineer who is passionate about technology and learning. 👩🏻‍💻❤️ </h4>
 
-<ul><h5>My current tech stack:<h5>
-  <li>- languages: JavaScript, Ruby, SQL, HTML, CSS, currently learning Python.<li> 
-  <li>- frameworks: Rails, React, Redux, Sinatra, Bootstrap, Material UI<li>
-  <li>- industry tools: Command Line, Git, Github, PostgreSQL<li>
+<h3>I'm a full stack software engineer who is passionate about technology and learning. 👩🏻‍💻❤️ </h3>
+
+<ul>My current tech stack:
+  <li>languages: JavaScript, Ruby, SQL, HTML, CSS, currently learning Python.<li> 
+  <li>frameworks: Rails, React, Redux, Sinatra, Bootstrap, Material UI<li>
+  <li>industry tools: Command Line, Git, Github, PostgreSQL<li>
 </ul>
 
 <br>
@@ -15,7 +15,7 @@
  <a align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user01010011&layout=compact&langs_count=5&theme=default" width="340"/>
 </a>
-
+<br>
 <a align="right">
   <img src="https://github-readme-stats.vercel.app/api/?username=user01010011&hide=stars,issues,contribs&count_private=true&theme=default&showicons=true" width="450"/>
 </a> &nbsp;&nbsp;&nbsp;&nbsp; 

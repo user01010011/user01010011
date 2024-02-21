@@ -46,6 +46,12 @@ _Astronomy picture of the day web app that lets users see NASA's space photo of 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 
+## Get in Touch
+<p float="left">
+ <a href="https://www.linkedin.com/in/isabellayan/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" /></a>
+<a href="https://medium.com/@isabella.y" target="blank"><img src="https://www.svgrepo.com/show/354057/medium-icon.svg" height="30" width="30" /></a>
+</p>
+
 </p>
 
 <!-- 

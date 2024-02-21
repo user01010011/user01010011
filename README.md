@@ -25,7 +25,7 @@
 
 ## Projects
 
-##### 🚀: **Spacetagram** [Repo](https://github.com/user01010011/Spacetagram) || [Try it](https://user01010011.github.io/Spacetagram/)
+##### 🚀 **Spacetagram** [Repo](https://github.com/user01010011/Spacetagram) || [Try it](https://user01010011.github.io/Spacetagram/)
 _Astronomy picture of the day web app that lets users see NASA's space photo of the day or find any historical NASA space photos._
 
  ## Skills

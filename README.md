@@ -4,9 +4,9 @@
 <h4>I'm a full stack software engineer who is passionate about technology and learning. 👩🏻‍💻❤️ </h4>
 
 <ul>My current tech stack:
-  <li>languages: JavaScript, Ruby, Python, SQL, HTML, CSS.</li> 
-  <li>frameworks: Rails, React, Redux, Flask, Sinatra, Bootstrap, Material UI</li>
-  <li>industry tools: Command Line, Git, Github, PostgreSQL</li>
+  <li>languages: JavaScript, Node, Python, Ruby, SQL, HTML, CSS.</li> 
+  <li>frameworks: React, Redux, Express, Flask, Rails, Sinatra, Bootstrap, Material UI</li>
+  <li>industry tools: PostgreSQL, MongoDB, Command Line, Git, Github </li>
 </ul>
 
 <br>

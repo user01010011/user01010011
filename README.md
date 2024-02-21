@@ -1,5 +1,5 @@
 
-<h2 align="left">👋🏼 Hi, nice to meet you! :)</h2>
+<h2 align="left">👋🏼 Hi, I'm Isabella, nice to meet you! :)</h2>
 
 <h4>I'm a full stack software engineer who is passionate about technology and learning. 👩🏻‍💻❤️ </h4>
 
@@ -22,6 +22,31 @@
 
 </div>
  <br> 
+
+## Projects
+
+##### 🚀: **Spacetagram** [Repo](https://github.com/user01010011/Spacetagram) || [Try it](https://user01010011.github.io/Spacetagram/)
+_Astronomy picture of the day web app that lets users see NASA's space photo of the day or find any historical NASA space photos._
+
+ ## Skills
+<p float="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+
+</p>
 
 <!-- 
  <p align="center"><img src="https://komarev.com/ghpvc/?username=user01010011" alt="user01010011"/></p> -->

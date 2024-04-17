@@ -16,10 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user01010011&layout=compact&langs_count=5&theme=default" width="340"/>
 </a>
 
-<a align="right">
-  <img src="https://github-readme-stats.vercel.app/api/?username=user01010011&hide=stars,issues,contribs&count_private=true&theme=default&showicons=true" width="450"/>
-</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-
 </div>
  <br> 
 

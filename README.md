@@ -1,5 +1,5 @@
 
-<h2 align="left">👋🏼 Hi, I'm Isabella, nice to meet you! :)</h2>
+<h2 align="left">👋🏼 Hi, nice to meet you! :)</h2>
 
 <h4>I'm a full stack software engineer who is passionate about technology and learning. 👩🏻‍💻❤️ </h4>
 

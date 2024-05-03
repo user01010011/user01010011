@@ -1,12 +1,12 @@
 
 <h2 align="left">👋🏼 Hi, nice to meet you! :)</h2>
 
-<h4>I'm a full stack software engineer who is passionate about technology and learning. 👩🏻‍💻❤️ </h4>
+<h4>I am passionate about technology and learning, and currently working on AI/ML/Generative AI projects. 👩🏻‍💻❤️ </h4>
 
 <ul>My current tech stack:
   <li>languages: JavaScript, Node, Python, Ruby, SQL, HTML, CSS.</li> 
   <li>frameworks: React, Redux, Express, Flask, Rails, Sinatra, Bootstrap, Material UI</li>
-  <li>industry tools: PostgreSQL, MongoDB, Command Line, Git, Github </li>
+  <li>industry tools: PostgreSQL, MongoDB, Redis, Command Line, Git, Github </li>
 </ul>
 
 <br>
